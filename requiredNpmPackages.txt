@@ -1,0 +1,6 @@
+@hapi/joi
+bcryptjs
+dotenv
+express
+jsonwebtoken
+mongoose
